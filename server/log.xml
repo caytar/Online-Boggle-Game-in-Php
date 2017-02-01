@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BOGGLELOG>
+	<room v="Official">
+		<time v="Mon May 28 14:02:56 2007"/>
+		<board v="dirbfcriqifpgynk"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 14:02:46 2007"/>
+		<board v="qdorxxvrwctdsneogvbpkxlpg"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 14:02:40 2007"/>
+		<board v="utpnimuwfjqsjxvk"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 14:02:09 2007"/>
+		<board v="zrhbasjeuygafoub"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 14:01:44 2007"/>
+		<board v="gccnaehhsveymqpxhlrnunyfd"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 14:01:23 2007"/>
+		<board v="egurfwcsfmoxeqmr"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 14:01:22 2007"/>
+		<board v="jowrghwlkobmeahk"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 14:00:42 2007"/>
+		<board v="eslsplwuiupfxlzbknhkwppan"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 14:00:35 2007"/>
+		<board v="ltcfirjcddsozoyv"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 14:00:06 2007"/>
+		<board v="zifwovyddwyvvbur"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:59:48 2007"/>
+		<board v="czmgyjgfdxvtnunn"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:59:40 2007"/>
+		<board v="bpiwuqzdzubdubzvafspqpqwu"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:59:01 2007"/>
+		<board v="bwewpjvygehljxep"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:58:49 2007"/>
+		<board v="pddbuotbbqcwivrf"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:58:38 2007"/>
+		<board v="xjujjddntgeiqvdgaijvwcyau"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:58:14 2007"/>
+		<board v="vbspkyhsenbppkqt"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:57:36 2007"/>
+		<board v="beocfuftsxdixtigsieehkchz"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:57:32 2007"/>
+		<board v="gyxymzevypzvjege"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:57:27 2007"/>
+		<board v="dflilrjqfnxztqrs"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:56:40 2007"/>
+		<board v="suyibyebmwsiqyoy"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:56:34 2007"/>
+		<board v="uxnspusgdhiixqmbfjxjcvudj"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:56:15 2007"/>
+		<board v="leqlwphapjnadqhd"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:55:53 2007"/>
+		<board v="cnvwdtxjbmypppha"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:55:32 2007"/>
+		<board v="ucxamludfykgruowzgiooobpp"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:55:06 2007"/>
+		<board v="cfskpggkbbipzzrz"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:54:58 2007"/>
+		<board v="yulyeimuotehzrii"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:54:30 2007"/>
+		<board v="enmeyatdrmydiajxloghiqfmz"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:54:19 2007"/>
+		<board v="hlvihjouvsuyoypa"/>
+		<players>
+			<player>
+				<id v="003"/>
+				<points v="0"/>
+				<words>
+					<word v="bic"/>
+				</words>
+			</player>
+		</players>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:53:41 2007"/>
+		<board v="moqcdrubetokyxho"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:53:32 2007"/>
+		<board v="mlejuukwcibxubum"/>
+		<players>
+			<player>
+				<id v="003"/>
+				<points v="0"/>
+				<words>
+					<word v="cuk"/>
+				</words>
+			</player>
+		</players>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:53:28 2007"/>
+		<board v="achwdvmxxrdryxlmndqtukwag"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:52:45 2007"/>
+		<board v="pbtrwblnsadeuguu"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:52:26 2007"/>
+		<board v="spqoqmsboaguwnnyqxnzlgdgw"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:52:24 2007"/>
+		<board v="iqvkuytdlcgdewht"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:51:58 2007"/>
+		<board v="aciohordtqkvwcsg"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:51:24 2007"/>
+		<board v="pqpxrjxkitzyxacbhhkicqcoe"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:51:11 2007"/>
+		<board v="ndtomfgdwdwfcgpx"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:51:07 2007"/>
+		<board v="ehchzvfrkmlnozjk"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:50:24 2007"/>
+		<board v="vqhffbsaqxwpqcac"/>
+		<players>
+			<player>
+				<id v="004"/>
+				<points v="1"/>
+				<words>
+					<word v="paf"/>
+					<word v="fap"/>
+				</words>
+			</player>
+		</players>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:50:22 2007"/>
+		<board v="nsnfwzqfjmafadrrwsofsbcnu"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:49:50 2007"/>
+		<board v="gbbuqcljjivswmdk"/>
+		<players>
+			<player>
+				<id v="004"/>
+				<points v="0"/>
+				<words>
+					<word v="bci"/>
+				</words>
+			</player>
+		</players>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:49:37 2007"/>
+		<board v="qtbxixmvtrrbljpt"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:49:20 2007"/>
+		<board v="pqfwkhopkmcoqhnwnkuewhsqm"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:48:50 2007"/>
+		<board v="ggxxpklorellnmpa"/>
+		<players/>
+	</room>
+	<room v="odam">
+		<time v="Mon May 28 13:48:33 2007"/>
+		<board v="nwlrbbmqbhcdarzo"/>
+		<players/>
+	</room>
+	<room v="Deneme">
+		<time v="Mon May 28 13:48:18 2007"/>
+		<board v="owfrxsjybldbefsarcbynecdy"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Mon May 28 13:48:03 2007"/>
+		<board v="wkkyhiddqscdxrjm"/>
+		<players>
+			<player>
+				<id v="003"/>
+				<points v="1"/>
+				<words>
+					<word v="cid"/>
+				</words>
+			</player>
+		</players>
+	</room>
+	<room v="Official">
+		<time v="Thu May 24 22:18:47 2007"/>
+		<board v="nwlrbbmqbhcdarzo"/>
+		<players>
+			<player>
+				<id v="002"/>
+				<points v="2"/>
+				<words>
+					<word v="bar"/>
+					<word v="coz"/>
+				</words>
+			</player>
+			<player>
+				<id v="001"/>
+				<points v="1"/>
+				<words>
+					<word v="bar"/>
+				</words>
+			</player>
+		</players>
+	</room>
+	<room v="Deneme">
+		<time v="Thu May 24 21:25:27 2007"/>
+		<board v="wkkyhiddqscdxrjmowfrxsjyb"/>
+		<players/>
+	</room>
+	<room v="Official">
+		<time v="Thu May 24 21:25:12 2007"/>
+		<board v="nwlrbbmqbhcdarzo"/>
+		<players>
+			<player>
+				<id v="002"/>
+				<points v="2"/>
+				<words>
+					<word v="bar"/>
+					<word v="coz"/>
+				</words>
+			</player>
+		</players>
+	</room>
+</BOGGLELOG>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PLAYERS>
+	<player>
+		<username v="zeynal"/>
+		<password v="zeynal"/>
+		<id v="004"/>
+		<rating v="001"/>
+		<points v="1"/>
+		<gcount v="1"/>
+	</player>
+	<player>
+		<username v="caytar"/>
+		<password v="deneme123"/>
+		<id v="003"/>
+		<rating v="002"/>
+		<points v="1"/>
+		<gcount v="3"/>
+	</player>
+	<player>
+		<username v="ahmet"/>
+		<password v="mehmet"/>
+		<id v="002"/>
+		<rating v="003"/>
+		<points v="0"/>
+		<gcount v="0"/>
+	</player>
+	<player>
+		<username v="ali"/>
+		<password v="veli"/>
+		<id v="001"/>
+		<rating v="004"/>
+		<points v="0"/>
+		<gcount v="0"/>
+	</player>
+</PLAYERS>
